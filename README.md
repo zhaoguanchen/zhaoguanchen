@@ -3,7 +3,15 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zhaoguanchen.zhaoguanchen&left_color=green&right_color=red)
 
+
+
+
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=zhaoguanchen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 <!--
 **zhaoguanchen/zhaoguanchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
